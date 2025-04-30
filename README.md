@@ -1,6 +1,6 @@
 # GPT Model Trained with FineWeb 10B Dataset
 
-This repository contains a PyTorch-based implementation of a GPT-style language model, trained on the FineWeb 10B dataset. The project was created as a personal learning exercise to better understand the inner workings of large language models and transformers.
+PyTorch-based implementation of a GPT model, trained on the FineWeb 10B dataset. The project was created as a personal learning exercise to better understand the inner workings of large language models and transformers.
 
 ## Background
 
