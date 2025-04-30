@@ -2,10 +2,6 @@
 
 PyTorch-based implementation of a GPT model, trained on the FineWeb 10B dataset. The project was created as a personal learning exercise to better understand the inner workings of large language models and transformers.
 
-## Background
-
-This is my first AI-related project. I built it to get hands-on experience with how large language models and transformers work. While working on it, I followed several educational videos by Andrej Karpathy where he demonstrates how to build GPT models from scratch. His content served as a major source of study and inspiration for me to continue exploring the field of AI.
-
 ## Project Overview
 
 This project includes:
@@ -34,9 +30,9 @@ This project includes:
 - Downloads and tokenizes the FineWeb dataset.
 - Shards tokenized data into binary chunks for efficient loading during training.
 
-## Background
+## Credits
 
-This is my first AI-related project. I built it to get hands-on experience with how large language models and transformers work. While working on it, I closely followed Andrej Karpathy’s YouTube tutorial series where he builds a GPT model from scratch. His teaching style and explanations greatly helped me understand the core concepts, and much of my implementation follows a similar structure to what he demonstrates — though all code was written and understood by me as part of the learning process.
+This is my first AI-related project. I built it to get hands-on experience with how large language models and transformers work. While working on it, I closely followed Andrej Karpathy’s YouTube tutorial series where he builds a GPT model from scratch. His teaching style and explanations greatly helped me understand the core concepts, and much of my implementation follows a similar structure to what he demonstrates - though all code was written and understood by me as part of the learning process.
 
 You can find his channel here: [Andrej Karpathy on YouTube](https://www.youtube.com/@AndrejKarpathy)
 
